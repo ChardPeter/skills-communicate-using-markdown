@@ -1,4 +1,4 @@
-# <header>
+ <header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-## Communicate using Markdown
+# Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -53,9 +53,9 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### :keyboard: Activity: Edit your file with headers
 
-#### 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-#### 1. Open the **pull requests** tab.
-#### 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
+1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+1. Open the **pull requests** tab.
+1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
 1. Click **Create pull request**.
 1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
 1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
